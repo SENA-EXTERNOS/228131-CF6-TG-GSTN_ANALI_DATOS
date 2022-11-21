@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Documentación y validación de los requisitos del software**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/228131-CF6-TG-GSTN_ANALI_DATOS](https://sena-externos.github.io/228131-CF6-TG-GSTN_ANALI_DATOS)
 
 #
 

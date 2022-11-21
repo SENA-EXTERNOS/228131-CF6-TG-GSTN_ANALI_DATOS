@@ -1,7 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: `Documentación y validación de los requisitos del <em>software</em>`,
+    descripcionCurso: `La elicitación de requisitos constituye la base fundamental para el desarrollo de proyectos de <em>software</em>, debido al impacto en el diseño y demás fases del ciclo de vida del producto. Realizarla apropiadamente es ayudar a reducir los cambios y correcciones en los requisitos, optimizando los costos en el diseño de del dispositivo y evitando pérdidas de tiempo.`,
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
