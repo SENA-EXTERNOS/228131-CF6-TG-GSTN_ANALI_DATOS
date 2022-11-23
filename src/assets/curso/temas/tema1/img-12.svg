@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="356" viewBox="0 0 610 356">
+  <g id="Grupo_179474" data-name="Grupo 179474" transform="translate(-495 -4443)">
+    <g id="Grupo_179473" data-name="Grupo 179473">
+      <g id="Grupo_179472" data-name="Grupo 179472">
+        <g id="Grupo_155935" data-name="Grupo 155935" transform="translate(315)">
+          <g id="Grupo_130075" data-name="Grupo 130075" transform="translate(215 4443)">
+            <rect id="Rectángulo_41096" data-name="Rectángulo 41096" width="141" height="356" transform="translate(434)" fill="#4dd0e1"/>
+            <line id="Línea_250" data-name="Línea 250" x1="390" transform="translate(50 1)" fill="none" stroke="#4dd0e1" stroke-width="2" opacity="0.2"/>
+            <line id="Línea_251" data-name="Línea 251" x1="390" transform="translate(50 355)" fill="none" stroke="#4dd0e1" stroke-width="2" opacity="0.2"/>
+          </g>
+          <g id="Grupo_155929" data-name="Grupo 155929" transform="translate(-639 -5)">
+            <rect id="Rectángulo_44928" data-name="Rectángulo 44928" width="601" height="339" rx="16" transform="translate(819 4457)" fill="#e0eef9"/>
+            <text id="Ciclo_de_requerimientos" data-name="Ciclo de requerimientos" transform="translate(1001 4509)" fill="#12263f" font-size="22" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Ciclo de requerimientos</tspan></text>
+            <rect id="Rectángulo_44923" data-name="Rectángulo 44923" width="105" height="44" rx="8" transform="translate(863 4596)" fill="#bddcf6"/>
+            <rect id="Rectángulo_44924" data-name="Rectángulo 44924" width="105" height="44" rx="8" transform="translate(1000 4596)" fill="#fff"/>
+            <rect id="Rectángulo_44925" data-name="Rectángulo 44925" width="105" height="44" rx="8" transform="translate(1137 4596)" fill="#7bb9ee"/>
+            <rect id="Rectángulo_44926" data-name="Rectángulo 44926" width="105" height="44" rx="8" transform="translate(1275 4596)" fill="#0f2771"/>
+            <text id="Definir" transform="translate(916 4624)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-22.977" y="0">Definir</tspan></text>
+            <text id="Analizar" transform="translate(1053 4624)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-28.891" y="0">Analizar</tspan></text>
+            <text id="Especificar" transform="translate(1190 4624)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-39.203" y="0">Especificar</tspan></text>
+            <text id="Validar" transform="translate(1328 4624)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-24.715" y="0">Validar</tspan></text>
+            <g id="Grupo_155930" data-name="Grupo 155930">
+              <rect id="Rectángulo_44927" data-name="Rectángulo 44927" width="105" height="44" transform="translate(1275 4681)" fill="#feca2e"/>
+              <path id="Polígono_20" data-name="Polígono 20" d="M22,0,44,20.5H0Z" transform="translate(1254.5 4725) rotate(-90)" fill="#feca2e"/>
+              <path id="Polígono_21" data-name="Polígono 21" d="M22,0,44,20.5H0Z" transform="translate(1400.5 4681) rotate(90)" fill="#feca2e"/>
+            </g>
+            <text id="Documentar" transform="translate(1328 4709)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-44.012" y="0">Documentar</tspan></text>
+            <g id="Grupo_155931" data-name="Grupo 155931">
+              <rect id="Rectángulo_44929" data-name="Rectángulo 44929" width="36" height="10" transform="translate(952 4613)" fill="#6a6a6a"/>
+              <path id="Polígono_22" data-name="Polígono 22" d="M15,0,30,18H0Z" transform="translate(1006 4603) rotate(90)" fill="#636363"/>
+            </g>
+            <g id="Grupo_155932" data-name="Grupo 155932" transform="translate(139)">
+              <rect id="Rectángulo_44929-2" data-name="Rectángulo 44929" width="36" height="10" transform="translate(952 4613)" fill="#6a6a6a"/>
+              <path id="Polígono_22-2" data-name="Polígono 22" d="M15,0,30,18H0Z" transform="translate(1006 4603) rotate(90)" fill="#636363"/>
+            </g>
+            <g id="Grupo_155933" data-name="Grupo 155933" transform="translate(283)">
+              <rect id="Rectángulo_44929-3" data-name="Rectángulo 44929" width="36" height="10" transform="translate(952 4613)" fill="#6a6a6a"/>
+              <path id="Polígono_22-3" data-name="Polígono 22" d="M15,0,30,18H0Z" transform="translate(1006 4603) rotate(90)" fill="#636363"/>
+            </g>
+            <g id="Grupo_155934" data-name="Grupo 155934" transform="translate(5944 3683) rotate(90)">
+              <rect id="Rectángulo_44929-4" data-name="Rectángulo 44929" width="36" height="10" transform="translate(952 4613)" fill="#6a6a6a"/>
+              <path id="Polígono_22-4" data-name="Polígono 22" d="M15,0,30,18H0Z" transform="translate(1006 4603) rotate(90)" fill="#636363"/>
+            </g>
+            <path id="Trazado_200653" data-name="Trazado 200653" d="M-7718-7104s-127-83-275,0" transform="translate(9044 11700)" fill="none" stroke="#0f2771" stroke-width="2" stroke-dasharray="2"/>
+            <path id="Trazado_200655" data-name="Trazado 200655" d="M-7859-7140.888s-61.884,36-134,0" transform="translate(8904 11781.889)" fill="none" stroke="#0f2771" stroke-width="2" stroke-dasharray="2"/>
+            <path id="Trazado_200656" data-name="Trazado 200656" d="M-7718-7161.889c-113,63-198.884,36-271,0" transform="translate(8904 11805.889)" fill="none" stroke="#0f2771" stroke-width="2" stroke-dasharray="2"/>
+            <path id="Trazado_200654" data-name="Trazado 200654" d="M-7719-7098s-120-118-410,0" transform="translate(9044 11693)" fill="none" stroke="#0f2771" stroke-width="2" stroke-dasharray="2"/>
+            <path id="Polígono_23" data-name="Polígono 23" d="M6,0l6,9H0Z" transform="matrix(-0.629, -0.777, 0.777, -0.629, 1055.279, 4600.995)" fill="#0f2771"/>
+            <path id="Polígono_24" data-name="Polígono 24" d="M6,0l6,9H0Z" transform="matrix(-0.629, -0.777, 0.777, -0.629, 916.279, 4603)" fill="#0f2771"/>
+            <path id="Polígono_25" data-name="Polígono 25" d="M6,0l6,9H0Z" transform="translate(904.617 4641.776) rotate(-47)" fill="#0f2771"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
