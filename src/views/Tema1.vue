@@ -364,7 +364,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img-30.png')
-        p.text-center.mb-5 Se deben redactar con frases concretas y que concluyan las historias de usuarios .
+        p.text-center.mb-5 Se deben redactar con frases concretas y que concluyan las historias de usuarios.
       .tarjeta.color-tarjeta-blanca.p-4
         .row.justify-content-center.mb-3
           .col-8
