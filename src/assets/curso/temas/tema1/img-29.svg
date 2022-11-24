@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1030" height="708" viewBox="0 0 1030 708">
+  <g id="Grupo_179460" data-name="Grupo 179460" transform="translate(-285 -9148)">
+    <g id="Grupo_179459" data-name="Grupo 179459">
+      <g id="Grupo_179458" data-name="Grupo 179458">
+        <g id="Grupo_179457" data-name="Grupo 179457">
+          <g id="Grupo_164987" data-name="Grupo 164987" transform="translate(9138 10281)">
+            <g id="Grupo_130075" data-name="Grupo 130075" transform="translate(-8398 -1133)">
+              <rect id="Rectángulo_41096" data-name="Rectángulo 41096" width="141" height="707" transform="translate(434)" fill="#4dd0e1"/>
+              <line id="Línea_250" data-name="Línea 250" x1="825" transform="translate(-385 1)" fill="none" stroke="#4dd0e1" stroke-width="2" opacity="0.2"/>
+              <line id="Línea_251" data-name="Línea 251" x1="825" transform="translate(-385 707)" fill="none" stroke="#4dd0e1" stroke-width="2" opacity="0.2"/>
+            </g>
+            <g id="Grupo_164986" data-name="Grupo 164986" transform="translate(0 1)">
+              <rect id="Rectángulo_45032" data-name="Rectángulo 45032" width="1020" height="691" rx="17" transform="translate(-8853 -1126)" fill="#e0eef9"/>
+              <rect id="Rectángulo_45033" data-name="Rectángulo 45033" width="182" height="128" rx="13" transform="translate(-8824 -809)" fill="#feca2e"/>
+              <rect id="Rectángulo_45035" data-name="Rectángulo 45035" width="187" height="86" rx="11" transform="translate(-8642 -1004)" fill="#bddcf6"/>
+              <rect id="Rectángulo_45037" data-name="Rectángulo 45037" width="142" height="57" rx="11" transform="translate(-8206 -948)" fill="#bddcf6"/>
+              <rect id="Rectángulo_45038" data-name="Rectángulo 45038" width="166" height="79" rx="11" transform="translate(-8223 -638)" fill="#bddcf6"/>
+              <rect id="Rectángulo_45036" data-name="Rectángulo 45036" width="126" height="86" rx="9" transform="translate(-8609 -663)" fill="#bddcf6"/>
+              <rect id="Rectángulo_45034" data-name="Rectángulo 45034" width="182" height="128" rx="16" transform="translate(-8057 -834)" fill="#feca2e"/>
+              <path id="Polígono_26" data-name="Polígono 26" d="M123.5,0,247,214H0Z" transform="translate(-8670 -883)" fill="#0f2771"/>
+              <path id="Polígono_27" data-name="Polígono 27" d="M123.5,0,247,214H0Z" transform="translate(-8013 -669) rotate(180)" fill="#0f2771"/>
+              <text id="Paradigmas_de_metodologías_para_el_desarrollo_y_entrega_de_soluciones_informáticas_" data-name="Paradigmas de metodologías para el desarrollo y entrega de soluciones informáticas
+" transform="translate(-8730 -1083)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Paradigmas de metodologías para el desarrollo y entrega de soluciones informáticas</tspan><tspan x="0" y="27"></tspan></text>
+              <text id="Requisitos" transform="translate(-8594 -893)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Requisitos</tspan></text>
+              <text id="Fijado_Difícil_cambiar_" data-name="Fijado
+(Difícil cambiar)
+" transform="translate(-8320 -1019)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-54.756" y="0">Fijado</tspan><tspan font-size="14" font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="-98.957" y="18">(Difícil cambiar)</tspan><tspan x="0" y="36"></tspan></tspan></text>
+              <text id="Estimado_Se_permiten_algunas_flexibilidades_" data-name="Estimado
+(Se permiten algunas
+flexibilidades)
+" transform="translate(-8338 -504)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Estimado</tspan><tspan font-size="14" font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="18">(Se permiten algunas</tspan><tspan x="0" y="36">flexibilidades)</tspan><tspan x="0" y="54"></tspan></tspan></text>
+              <text id="Requisitos-2" data-name="Requisitos" transform="translate(-8181 -647)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Requisitos</tspan></text>
+              <text id="Ágil" transform="translate(-8154 -769)" fill="#fff" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Ágil</tspan></text>
+              <text id="Tradicional" transform="translate(-8596 -751)" fill="#fff" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Tradicional</tspan></text>
+              <text id="Recursos" transform="translate(-8302 -896)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Recursos</tspan></text>
+              <text id="Recursos-2" data-name="Recursos" transform="translate(-8718 -643)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Recursos</tspan></text>
+              <text id="Fechas" transform="translate(-8052 -896)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Fechas</tspan></text>
+              <text id="Fechas-2" data-name="Fechas" transform="translate(-8462 -643)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Fechas</tspan></text>
+              <g id="Grupo_155931" data-name="Grupo 155931" transform="translate(-3711 -1662) rotate(90)">
+                <rect id="Rectángulo_44929" data-name="Rectángulo 44929" width="457" height="7" transform="translate(670 4616)" fill="#6a6a6a"/>
+                <path id="Polígono_22" data-name="Polígono 22" d="M10.5,0,21,16H0Z" transform="translate(1135 4609) rotate(90)" fill="#636363"/>
+              </g>
+              <path id="Trazado_200653" data-name="Trazado 200653" d="M-7836.5-7241.222c8,77.333-76,74.667-100,57.333" transform="translate(-591.5 6607.889)" fill="none" stroke="#0f2771" stroke-width="2" stroke-dasharray="2"/>
+              <path id="Trazado_202841" data-name="Trazado 202841" d="M-7935.965-7241.222c-8,77.333,76,74.667,100,57.333" transform="translate(-737.768 6608.222)" fill="none" stroke="#0f2771" stroke-width="2" stroke-dasharray="2"/>
+              <path id="Polígono_25" data-name="Polígono 25" d="M6,0l6,9H0Z" transform="translate(-8434.033 -636.33) rotate(-8)" fill="#0f2771"/>
+              <path id="Polígono_28" data-name="Polígono 28" d="M6,0l6,9H0Z" transform="translate(-8680.836 -636.33) rotate(-8)" fill="#0f2771"/>
+              <text id="Los_desarrollos_parten_desde_los_requisitos_de_un_proyecto_completo_" data-name="Los desarrollos parten desde los requisitos de un proyecto completo
+" transform="translate(-8642 -993)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="10.344" y="17">Los desarrollos parten </tspan><tspan x="7.238" y="41">desde los </tspan><tspan y="41" font-family="Roboto-Bold, Roboto" font-weight="700">requisitos</tspan><tspan y="41" xml:space="preserve"> de </tspan><tspan x="12.535" y="65">un proyecto</tspan><tspan y="65" xml:space="preserve" font-family="Roboto-Bold, Roboto" font-weight="700"> completo</tspan></text>
+              <text id="A_partir_de_los_recursos_y_fechas_" data-name="A partir de los recursos y fechas
+" transform="translate(-8204 -940)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-49.543" y="17">A partir de los </tspan><tspan x="-62.895" y="41">recursos y fechas</tspan><tspan x="0" y="65"></tspan></text>
+              <text id="Según_los_requisitos_se_definen_" data-name="Según los requisitos se definen
+" transform="translate(-8609 -651)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="28.094" y="17">Según los </tspan><tspan x="17.523" y="41">requisitos se </tspan><tspan x="36.754" y="65">definen</tspan></text>
+              <text id="Se_definen_los_requerimientos_más_prioritarios_" data-name="Se definen los requerimientos más prioritarios
+" transform="translate(-8216 -634)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-49.82" y="17">Se definen los </tspan><tspan x="-71.086" y="41">requerimientos más </tspan><tspan x="-38.648" y="65">prioritarios</tspan><tspan x="0" y="89"></tspan></text>
+              <text id="Bien_planificados_pero_poco_flexible_en_el_cambio_de_requisitos" data-name="Bien planificados, pero poco flexible en el cambio de requisitos" transform="translate(-8810 -791)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-62.43" y="17">Bien planificados, </tspan><tspan x="-73.668" y="41">pero poco flexible en </tspan><tspan x="-45.434" y="65">el cambio de </tspan><tspan x="-35.133" y="89">requisitos</tspan></text>
+              <text id="Enfoque_a_soluciones_parciales._Soluciones_corriendo_adición_de_nuevas_funciones_" data-name="Enfoque a soluciones parciales. Soluciones corriendo adición de nuevas funciones
+" transform="translate(-8049 -815)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-76.316" y="17">Enfoque a soluciones </tspan><tspan x="-75.473" y="41">parciales. Soluciones </tspan><tspan x="-72.453" y="65">corriendo adición de </tspan><tspan x="-62.355" y="89">nuevas funciones</tspan><tspan x="0" y="113"></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
