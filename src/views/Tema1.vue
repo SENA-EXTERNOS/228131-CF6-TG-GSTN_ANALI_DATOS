@@ -246,7 +246,7 @@
         #t_1_3.titulo-segundo.color-acento-botones.color_subtemas.pb-2
           h3 Infografía Elicitación de requisitos
         p.mb-5 Aspectos principales de la elicitación de requisitos.
-        a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO_Elicitacion_de_requisitos.pdf')" target="_blank")
           span Descargar
           i.fas.fa-file-download
 
