@@ -13,12 +13,6 @@
       .col-lg-10
         p El propósito de la elicitación de requerimientos es adquirir conocimientos relevantes del objeto de estudio, que se utilizará para producir una especificación formal del <em>software</em> necesario para resolverlo. “Un problema puede ser definido como la diferencia entre las cosas como se perciben y como se desean” (Wiegers, 2009).   Resaltando la importancia que tiene una comunicación asertiva entre desarrolladores y clientes; de esta correlación depende que las necesidades queden claras. Además, al final de la fase de análisis de requerimientos, el encargado podría llegar a tener un conocimiento extenso en el dominio del problema.
 
-        a.anexo.mb-4.mb-lg-0.anexo_uno(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p <b>Enlace web.</b> <em>Software requirements 2, Microsoft</em>
-
     p.mb-5 La elicitación de requisitos es la actividad que se considera como el primer paso en un proceso de ingeniería de requisitos; el significado hace referencia a la puesta en marcha de técnicas que sirven para recopilar conocimiento o información. Los objetivos de esta fase son:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -33,20 +27,20 @@
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/img-3.svg')
-        h2.text-center Requisitos funcionales (RF): 
+        h2.text-center Requisitos funcionales (RF)
         p Establecen el modelo de funcionamiento del sistema y son el centro de las discusiones entre las partes, son la base para realizar las pruebas de verificación del software después de la implementación.
       .col-md.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/img-4.svg')
-        h2.text-center Requisitos no funcionales (RNF):
+        h2.text-center Requisitos no funcionales (RNF)
         p Son las limitaciones sobre servicios o funciones que tiene el dispositivo, incluye restricciones en el cronograma y en el proceso del mismo; además de las normas y estándares impuestos, también deben ser aplicadas como un todo y no como características individuales. Tienen un origen técnico y, aunque para el cliente no interesa tanto este aspecto, lo que sí importa es que sea funcional. Se derivan de las restricciones y están destinadas a encuadrar en el sistema dentro de un entorno de trabajo.
 
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-12
         .titulo-sexto.color_tabla.pb-0
-          p.mb-0.text-small <b>tabla 1</b>. Ejemplos de requisitos funcionales y no funcionales
+          p.mb-0.text-small <b>Tabla 1</b>. Ejemplos de requisitos funcionales y no funcionales
 
         figure
           img(src='@/assets/curso/temas/tema1/img-tabla.svg')
@@ -65,7 +59,7 @@
 
         figure.img_siete
           img(src='@/assets/curso/temas/tema1/img-5.svg')
-          figcaption.mt-2 Nota: adaptad de/ Símbolo ilícito o lícito. 
+          figcaption.mt-2 Nota: adaptad de/ Símbolo ilícito o lícito. Empresario gira cubos de madera y cambia la palabra "Ilícito" a "Elícito”. Shutterstock. Dmitry Demidovich. (2003) 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -74,17 +68,17 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-6.png')
           .tarjeta.color-acento-botones.p-3(x="8.5%" y="115%" numero="1")
-            p Conocimiento del dominio y el contexto
+            p Conocimiento del dominio y el contexto.
           .tarjeta.color-acento-botones.p-3(x="25.3%" y="115%" numero="2")
-            p Comprensión del problema
+            p Comprensión del problema.
           .tarjeta.color-acento-botones.p-3(x="42.2%" y="115%" numero="3")
-            p Definición del modelo y las reglas del negocio
+            p Definición del modelo y las reglas del negocio.
           .tarjeta.color-acento-botones.p-3(x="59%" y="115%" numero="4")
-            p Unificación de criterios
+            p Unificación de criterios.
           .tarjeta.color-acento-botones.p-3(x="75.9%" y="115%" numero="5")
-            p Sensibilización de las partes interesadas
+            p Sensibilización de las partes interesadas.
           .tarjeta.color-acento-botones.p-3(x="92.7%" y="115%" numero="6")
-            p Especificaciones finales completas, formales y acordadas entre todos los participantes
+            p Especificaciones finales completas, formales y acordadas entre todos los participantes.
 
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.cuadro-derecha-7
       .row.m-0.align-items-center.justify-content-between.bloque-texto-a.texto-3
@@ -155,14 +149,14 @@
         .row.justify-content-center.align-items-center
           .col-md-7.mb-4.mb-md-0
             h5.ms-5 Preguntas abiertas y cerradas
-            p.ms-5 Las abiertas so aquellas que no tienen limitación de respuestas, les dan más libertad a los funcionarios para escribir exponer su punto de vista, mientras que las cerradas, se condicionan y es necesario elegir una de las opciones disponibles.
+            p.ms-5 Las abiertas son aquellas que no tienen limitación de respuestas, les dan más libertad a los funcionarios para escribir exponer su punto de vista, mientras que las cerradas, se condicionan y es necesario elegir una de las opciones disponibles.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img-16.svg')
         .row.justify-content-center.align-items-center
           .col-md-7.mb-4.mb-md-0
             h5.ms-5 Observación <em>in situ</em>
-            p.ms-5 Consiste en la percepción directa de las prácticas que se realizan habitualmente en el proceso de elaboración del software, esta técnica permite la obtención de datos, no desde el punto de vista de las personas, sino desde la evidencia directa, es decir lo que ve y percibe el analista de requisitos. Antes de realizar la observación in situ, se deben escoger un conjunto de operaciones que sean importantes para el nuevo sistema, las cuales se deben aplicar de manera constante, que tengan cierta complejidad de comprensión.
+            p.ms-5 Consiste en la percepción directa de las prácticas que se realizan habitualmente en el proceso de elaboración del <em>software,</em> esta técnica permite la obtención de datos, no desde el punto de vista de las personas, sino desde la evidencia directa, es decir lo que ve y percibe el analista de requisitos. Antes de realizar la observación in situ, se deben escoger un conjunto de operaciones que sean importantes para el nuevo sistema, las cuales se deben aplicar de manera constante, que tengan cierta complejidad de comprensión.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img-17.svg')
@@ -222,8 +216,8 @@
         .row.justify-content-center.align-items-center
           .col-md-7.mb-4.mb-md-0
             h5.ms-5 <em>Joint Application Development</em>
-            p.ms-5 En español, el Desarrollo Conjunto de Aplicaciones o JAD, es un proceso destinado al adelanto de sistemas informáticos en su etapa inicial, pero también puede ser aplicable a otros tipos de etapa. Es un enfoque para garantizar la precisión entre la definición del alcance del proyecto y la entrega, a través de la colaboración continua de partes interesadas. Estas interacciones forman el núcleo de la etapa de desarrollo y el ciclo de vida de JAD. Es un medio moderno de recopilar y analizar los requisitos de <em>software</em>, que se discuten en una serie de reuniones y talleres entre los equipos involucrados. (Stephen, 2017)
-            p.ms-5 JAD es más frecuente en entornos de entrega Agile, en la que los productos del sistema se crean y envían en ciclos cortos en función a los acuerdos entre los participantes.
+            p.ms-5 En español, el Desarrollo Conjunto de Aplicaciones o <em>JAD,</em> es un proceso destinado al adelanto de sistemas informáticos en su etapa inicial, pero también puede ser aplicable a otros tipos de etapa. Es un enfoque para garantizar la precisión entre la definición del alcance del proyecto y la entrega, a través de la colaboración continua de partes interesadas. Estas interacciones forman el núcleo de la etapa de desarrollo y el ciclo de vida de <em>JAD.</em> Es un medio moderno de recopilar y analizar los requisitos de <em>software</em>, que se discuten en una serie de reuniones y talleres entre los equipos involucrados. (Stephen, 2017)
+            p.ms-5 <em>JAD</em> es más frecuente en entornos de entrega <em>Agile</em>, en la que los productos del sistema se crean y envían en ciclos cortos en función a los acuerdos entre los participantes.
 
           .col-md-5
             figure
@@ -271,7 +265,7 @@
       .py-3.py-md-4(titulo="IREB")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 IREB (<em>xInternational Requirements Engineering Board</em>) 
+            h4 <em>IREB (International Requirements Engineering Board</em>) 
             p.decor Es una organización sin ánimo de lucro <a class= "decor" href="https://www.ireb.org/en/landingpage/es/">www.ireb.org</a>, que provee el esquema de certificación profesional en ingeniería de requisitos (CPRE), el consejo está compuesto por representantes y líderes en IR (requisitos internacionales), que provienen de la academia, investigación, empresa y consultoría.
 
             p Esta organización surge en Alemania en el año 2006, sin embargo, es un comité con alcance internacional, su objetivo es destacar la importancia de los requerimientos como una disciplina completa y mostrar su valor agregado a la industria del <em>software</em>.
@@ -290,7 +284,8 @@
             h4 Certificación CPRE (<em>Certifield Profesional on Requirements Engineering</em>)
             p.mb-0 Es gestionada y entregada por IREB, dirigida a los profesionales en: 
             p.mb-0 análisis de negocio, administradores y analistas de procesos que se enfocan en mejorar y optimizar áreas de soluciones tecnológicas, ingenieros de <em>software</em> o requerimientos expertos en el estudio de requisitos y planteamientos de soluciones informáticas.
-            p <b>Pruebas:</b> expertos en testeos de aplicaciones y soluciones tecnológicas, evalúan si el proyecto sí cumple con lo pactado o prometido, emplean técnicas y métodos establecidos, según el tipo de prueba que desean ejecutar.
+
+            p Pruebas: expertos en testeos de aplicaciones y soluciones tecnológicas, evalúan si el proyecto sí cumple con lo pactado o prometido, emplean técnicas y métodos establecidos, según el tipo de prueba que desean ejecutar.
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-25.png')
@@ -325,7 +320,7 @@
             ul.lista-ul.ms-4
               li 
                 <i class="fas fa-angle-right" aria-hidden="true"></i>
-                p <b>Especificación de Requisitos de <em>Software</em> (ERS):</b> se refiere a una descripción que indica algo, esta especificación debe ser entendida por el cliente. La ERS no puede llevar elementos de implementación o de desarrollo de soluciones técnicas, a partir de una determinación especifica, surgen otras más detalladas producto de la descripción documentada.
+                p <b>Especificación de Requisitos de <em>Software</em> (ERS):</b> se refiere a una descripción que indica algo, esta especificación debe ser entendida por el cliente. La ERS no puede llevar elementos de implementación o de desarrollo de soluciones técnicas, a partir de una determinación específica, surgen otras más detalladas producto de la descripción documentada.
               li
 
     p.mb-5 La metodología IEEE 830 presenta la siguiente estructura:
@@ -359,10 +354,10 @@
 
     p.mb-5 <b>Características principales de los criterios de aceptación:</b>
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4 col-sm-9 col-xs-8")
       .tarjeta.color-tarjeta-blanca.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-8.col-xs-10
             img(src='@/assets/curso/temas/tema1/img-30.png')
         p.text-center.mb-5 Se deben redactar con frases concretas y que concluyan las historias de usuarios.
       .tarjeta.color-tarjeta-blanca.p-4
@@ -374,7 +369,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img-32.png')
-        p.text-center.mb-4 Los resultados de las pruebas solo deben tener dos estados: Correcto o incorrecto.
+        p.text-center.mb-4 Los resultados de las pruebas solo deben tener dos estados: correcto o incorrecto.
       .tarjeta.color-tarjeta-blanca.p-4
         .row.justify-content-center.mb-3
           .col-8

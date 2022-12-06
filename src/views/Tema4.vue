@@ -29,27 +29,27 @@
           img(src="@/assets/curso/temas/tema4/img-2.png")
       .col-lg-9
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-          .tarjeta.color-tarjeta-blanca.p-4
+          .tarjeta.color-tarjeta-cuatro.p-4
             .row.justify-content-center.mb-3
               .col-8
                 img.mb-5(src='@/assets/curso/temas/tema4/img-3.png')
             p.text-center.text-small.mb-5 Elicitación, refinamiento y documentación de requisitos.
-          .tarjeta.color-tarjeta-blanca.p-4
+          .tarjeta.color-tarjeta-cuatro.p-4
             .row.justify-content-center.mb-3
               .col-8
                 img.mb-4(src='@/assets/curso/temas/tema4/img-4.png')
-            p.text-center.mb-5.text-small Diseño o modelado rápido, centrado en lo que ve el usuario y se utiliza del software.
-          .tarjeta.color-tarjeta-blanca.p-4
+            p.text-center.mb-5.text-small Diseño o modelado rápido, centrado en lo que ve el usuario y se utiliza del <em>software.</em>
+          .tarjeta.color-tarjeta-cuatro.p-4
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/tema4/img-5.png')
-            p.text-center.mb-5.text-small Construcción y evaluación del prototipo, el uso por parte de los stackholders, ayuda a redefinir los requisitos previos.
-          .tarjeta.color-tarjeta-blanca.p-4
+            p.text-center.mb-5.text-small Construcción y evaluación del prototipo, el uso por parte de los <em>stackholders,</em> ayuda a redefinir los requisitos previos.
+          .tarjeta.color-tarjeta-cuatro.p-4
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/tema4/img-6.png')
             p.text-center.text-small Depuración y refinamiento del prototipo, este proceso iterativo sirve para que el cliente valide las necesidades y a su vez mejora el entendimiento con el equipo de trabajo.
-          .tarjeta.color-tarjeta-blanca.p-4
+          .tarjeta.color-tarjeta-cuatro.p-4
             .row.justify-content-center.mb-3
               .col-8
                 img.mb-4(src='@/assets/curso/temas/tema4/img-7.png')

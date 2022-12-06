@@ -71,7 +71,7 @@
             p Para lograr ayuda de personas con experiencia en la identificación de riesgos.
           .tarjeta.color-punto-tres.p-3(x="60.9%" y="76%" numero="5")
             h5 Análisis Causa/Efecto
-            p el fin de tomar acciones preventivas.
+            p Permite identificar los problemas y las causas con el fin de tomar acciones preventivas.
           .tarjeta.color-punto-tres.p-3(x="44.7%" y="78%" numero="6")
             h5 Análisis de listas de chequeo
             p Son los que se elaboran con base en información histórica y conocimiento acumulado en proyectos previos.

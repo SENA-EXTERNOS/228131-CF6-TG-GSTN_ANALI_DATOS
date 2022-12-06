@@ -54,7 +54,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Documentación e informe de requisitos',
+            titulo: `Documentación e informe de requisitos (IEE-830 y otros referentes)`,
             hash: 't_1_3',
           },
         ],
@@ -157,7 +157,7 @@ export default {
       link: 'http://repositorio.puce.edu.ec/handle/22000/6354',
     },
     {
-      tema: `IEEE Standard | IEEE Xplore. `,
+      tema: `<em>IEEE Standard | IEEE Xplore.</em>`,
       referencia: `IEEE (1993). 830-1998 - <em>IEEE Recommended Practice for Software Requirements Specifications</em>. IEEE explore. `,
       tipo: `Página web . `,
       link: 'https://ieeexplore.ieee.org/document/720574',
@@ -171,7 +171,7 @@ export default {
     {
       tema: `Instructivo uso del estilo APA 7ª edición`,
       referencia: `SENA, (2020), <em>Instructivo uso del estilo APA 7a edición</em>. Servicio general de aprendizaje SENA.`,
-      tipo: `Instructivo`,
+      tipo: `Instructivo PDF`,
       link: 'https://biblioteca.sena.edu.co/images/PDF/InstructivoAPA.pdf',
     },
   ],
