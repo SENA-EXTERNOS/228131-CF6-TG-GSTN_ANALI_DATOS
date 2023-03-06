@@ -10,10 +10,10 @@
       h1 Introducción
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
-        p Estimado aprendiz, sea bienvenido a este componente formativo en el que podrá adquirir conocimientos relacionados con el levantamiento y gestión de requisitos para soluciones tecnológicas y desarrollo de <em>software.</em> Por otra parte, se apropiarán competencias sobre estándares establecidos y documentación para garantizar que las primeras fases de los prototipos sean firmes y garanticen el éxito del producto; así mismo, se intenta reducir incertidumbres y cambios futuros para evitar sobrecostos, demoras en las entregas o insatisfacción de lo que requiera el negocio.
+        p Estimado aprendiz, bienvenido a este componente formativo, en el que podrá adquirir conocimientos relacionados con el levantamiento y gestión de requisitos para soluciones tecnológicas y desarrollo de <em>software</em>. Por otra parte, se apropiarán competencias sobre estándares establecidos y documentación, para garantizar que las primeras fases de los prototipos sean firmes y garanticen el éxito del producto; así mismo, se intenta reducir incertidumbres y cambios futuros para evitar sobrecostos, demoras en las entregas, o insatisfacción de lo que requiera el negocio.
 
-        .cajon-b.color-primario.p-3.mb-5.intro
-          p.mb-0 En el siguiente enlace encontrará un vídeo en el que podrá conocer las temáticas que se abordarán a lo largo de este estudio, ¡muchos éxitos en este proceso!
+        .cajon-b.color-primario.p-3.ps-0.mb-5.intro
+          p.mb-0 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
       .col-lg-3
         figure
           img(src="@/assets/curso/introduccion/img-1.png")

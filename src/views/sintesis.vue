@@ -3,14 +3,10 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p La Elicitación de Requisitos constituye la base fundamental para el desarrollo de proyectos de <em>software</em>, debido al impacto en el diseño y demás fases del ciclo de vida del producto. Realizarla apropiadamente es ayudar a reducir los cambios y correcciones en los requisitos, optimizando los costos en el desarrollo de <em>software</em> y evitando por pérdidas de tiempo.
+    p.mb-4 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
 
-    p.mb-5 continuación, se presenta el diagrama que representa el resumen de las temáticas que están desarrolladas en el componente formativo:
-     
     .row.justify-content-center
       .col-lg-10.mb-5
-        .titulo-sexto.color_tabla.pb-0
-          p.mb-0.text-small <b>Figura 15.</b> Documentación y validación de los requisitos del <em>software</em>
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto

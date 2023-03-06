@@ -1,7 +1,8 @@
 export default {
   global: {
     componenteFormativo: `Documentación y validación de los requisitos del <em>software</em>`,
-    descripcionCurso: `La elicitación de requisitos constituye la base fundamental para el desarrollo de proyectos de <em>software</em>, debido al impacto en el diseño y demás fases del ciclo de vida del producto. Realizarla apropiadamente es ayudar a reducir los cambios y correcciones en los requisitos, optimizando los costos en el diseño de del dispositivo y evitando pérdidas de tiempo.`,
+    descripcionCurso:
+      'La elicitación de requisitos, constituye la base fundamental para el desarrollo de proyectos de <em>software</em>, debido al impacto en el diseño y demás fases del ciclo de vida del producto. Realizarla apropiadamente, es ayudar a reducir los cambios y correcciones en los requisitos, optimizando los costos en el diseño del dispositivo y evitando pérdidas de tiempo. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -54,7 +55,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: `Documentación e informe de requisitos (IEE-830 y otros referentes)`,
+            titulo:
+              'Documentación e informe de requisitos (IEEE-830 y otros referentes)',
             hash: 't_1_3',
           },
         ],
@@ -151,28 +153,27 @@ export default {
   },
   complementario: [
     {
-      tema: `Desarrollo de un prototipo informático de consulta y asignación de plazas libres en parqueaderos.`,
-      referencia: `Andrade, J. C. (2012). <em>Desarrollo de un prototipo informático de consulta y asignación de plazas libres en parqueaderos</em>. Pontifica Universidad Católica del Ecuador.`,
-      tipo: `Tesis`,
+      tema: 'Etapas en la construcción del prototipo de <em>software</em>',
+      referencia:
+        'Andrade, J. C. (2012). <em>Desarrollo de un prototipo informático de consulta y asignación de plazas libres en parqueaderos.</em> Pontificia Universidad Católica del Ecuador.',
+      tipo: 'Tesis',
       link: 'http://repositorio.puce.edu.ec/handle/22000/6354',
     },
     {
-      tema: `<em>IEEE Standard | IEEE Xplore.</em>`,
-      referencia: `IEEE (1993). 830-1998 - <em>IEEE Recommended Practice for Software Requirements Specifications</em>. IEEE explore. `,
-      tipo: `Página web . `,
+      tema:
+        'Documentación e informe de requisitos (IEEE-830 y otros referentes)',
+      referencia:
+        'IEEE (1993). 830-1998 - <em>IEEE Recommended Practice for Software Requirements Specifications. IEEE Xplore.</em> ',
+      tipo: 'Página web',
       link: 'https://ieeexplore.ieee.org/document/720574',
     },
     {
-      tema: `Acuerdos de nivel de servicio (SLA)`,
-      referencia: `Maximo for Service Providers. (2021). <em>Acuerdos de nivel de servicio (SLA)</em>.IBM. `,
-      tipo: `Documento web`,
-      link: `https://www.ibm.com/docs/es/mfsp/7.6.1?topic=records-service-level-agreements-slas`,
-    },
-    {
-      tema: `Instructivo uso del estilo APA 7ª edición`,
-      referencia: `SENA, (2020), <em>Instructivo uso del estilo APA 7a edición</em>. Servicio general de aprendizaje SENA.`,
-      tipo: `Instructivo PDF`,
-      link: 'https://biblioteca.sena.edu.co/images/PDF/InstructivoAPA.pdf',
+      tema: 'Gestión de cambio de requisitos y proyecto',
+      referencia:
+        'IBM Maximo Service Providers. (2021). Acuerdos de nivel de servicio (SLA).IBM. ',
+      tipo: 'Documento web',
+      link:
+        'https://www.ibm.com/docs/es/mfsp/7.6.1?topic=records-service-level-agreements-slas',
     },
   ],
   glosario: [
@@ -186,7 +187,7 @@ export default {
     },
     {
       termino: `CPRE`,
-      significado: `<em>Certifield Profesional on Requirements Engineering</em>, certificación para profesionales en ingeniería de requisitos. El documento es emitido por el comité de experto IREB.`,
+      significado: ` Certified Professional Requirements Engineering, certificación para profesionales en ingeniería de requisitos. El documento es emitido por el comité de experto IREB.`,
     },
     {
       termino: `Dominio del problema`,
@@ -197,11 +198,11 @@ export default {
       significado: `es un esquema o contexto de trabajo para la creación de aplicaciones; usar <em>framework</em> agiliza y facilita el procedimiento de estas herramientas digitales.`,
     },
     {
-      termino: `In situ`,
+      termino: `<em>In situ</em>`,
       significado: `indica el lugar donde suceden las acciones.`,
     },
     {
-      termino: `<em>Insigth</em>`,
+      termino: `<em>Insight</em>`,
       significado: `término de la psicología que indica una verdad general, en términos de informática y marketing se refiere a las verdades (a veces relativa según tiempo y condiciones), que generan los datos o los comportamientos de consumo.`,
     },
     {
@@ -222,15 +223,15 @@ export default {
     },
     {
       termino: `Requisitos no funcionales (RNF)`,
-      significado: `son los requerimientos transversales del sistema, no son propiamente de función del sistema, pero si necesarios, tales como el ambiente gráfico, proveedores de servicios, fiabilidad, velocidad, etc.`,
+      significado: `son los requerimientos transversales del sistema, no son propiamente de función del sistema, pero sí necesarios, tales como el ambiente gráfico, proveedores de servicios, fiabilidad, velocidad, etc.`,
     },
     {
-      termino: `<em>Stackholders</em>`,
+      termino: `<em>Stakeholders</em>`,
       significado: `partes interesadas. Son los grupos o actores que participan en la construcción de los sistemas de información.`,
     },
     {
-      termino: `Tabular los datos:`,
-      significado: `es el análisis de los resultados de los datos obtenidos a partir de las herramientas para tomarlos. Por lo general, se realiza a través de técnicas de la estadística descriptiva.`,
+      termino: `Tabular los datos`,
+      significado: `es el análisis de los resultados de los datos, obtenidos a partir de las herramientas para tomarlos. Por lo general, se realiza a través de técnicas de la estadística descriptiva. `,
     },
     {
       termino: `Testeos`,
@@ -239,24 +240,32 @@ export default {
   ],
   referencias: [
     {
-      referencia: `Lasa Gómez, C. et.al, (2017),<em> Métodos ágiles: Scrum, Kanban, Lean.</em> Madrid: Anaya multimedia. `,
-      link: `https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/122933`,
+      referencia:
+        'Lasa Gómez, C. et al. (2017), <em>Métodos ágiles: Scrum, Kanban, Lean.</em> Anaya multimedia.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/122933',
     },
     {
-      referencia: `Netec, (2021), Proceso de gestión de niveles de servicio. <em>Curso Fundamentos de ITIL® V3</em> | EOL.`,
-      link: `https://www.netecdigital.com/courses/195795/lectures/3432553`,
+      referencia:
+        'Netec. (2021). <em>Proceso de gestión de niveles de servicio.</em> Curso Fundamentos de ITIL® V3 | EOL. ',
+      link: 'https://www.netecdigital.com/courses/195795/lectures/3432553',
     },
     {
-      referencia: `Presman, R., & Maxim, B, (2021), <em>Ingeniería de software - un enfoque práctico.</em>`,
-      link: `https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=16414`,
+      referencia:
+        'Presman, R. & Maxim, B. (2021). <em>Ingeniería de software - un enfoque práctico.</em> ',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=16414',
     },
     {
-      referencia: `Stephen, O. (2017), <em>Joint Application Development: Definition, Phases & Methodology</em>,Study.com.`,
-      link: `https://study.com/academy/lesson/joint-application-development-definition-phases-methodology.html`,
+      referencia:
+        'Stephen, O. (2017). <em>Joint Application Development: Definition, Phases & Methodology.</em> Study.com.',
+      link:
+        'https://study.com/academy/lesson/joint-application-development-definition-phases-methodology.html ',
     },
     {
-      referencia: `Wiegers, K. (2003), <em>Software requirements: practical techniques for gathering and managing requirements throughout the product development cycle</em>, Upgrade this ebook with O’Reilly`,
-      link: `https://www.pdfdrive.com/software-requirements-practical-techniques-for-gathering-and-managing-requirements-throughout-the-product-development-cycle-2nd-edition-d193204082.html `,
+      referencia:
+        'Wiegers, K. (2003). <em>Software requirements: practical techniques for gathering and managing requirements throughout the product development cycle.</em>',
+      link:
+        'https://www.pdfdrive.com/software-requirements-practical-techniques-for-gathering-and-managing-requirements-throughout-the-product-development-cycle-2nd-edition-d193204082.html',
     },
   ],
   creditos: {
