@@ -163,7 +163,7 @@ export default {
       tema:
         'Documentación e informe de requisitos (IEEE-830 y otros referentes)',
       referencia:
-        'IEEE (1993). 830-1998 - <em>IEEE Recommended Practice for Software Requirements Specifications. IEEE Xplore.</em> ',
+        'IEEE (1993). <em>830-1998 - IEEE Recommended Practice for Software Requirements Specifications. IEEE Xplore.</em> ',
       tipo: 'Página web',
       link: 'https://ieeexplore.ieee.org/document/720574',
     },
@@ -203,11 +203,11 @@ export default {
     },
     {
       termino: `<em>Insight</em>`,
-      significado: `término de la psicología que indica una verdad general, en términos de informática y marketing se refiere a las verdades (a veces relativa según tiempo y condiciones), que generan los datos o los comportamientos de consumo.`,
+      significado: `término de la psicología que indica una verdad general, en términos de informática y <em>marketing</em> se refiere a las verdades (a veces relativa según tiempo y condiciones) que generan los datos o los comportamientos de consumo.`,
     },
     {
       termino: `Inteligencia de negocio`,
-      significado: `BI, combinación de estrategias y gestión de datos. Se integra análisis, analítica, minería de datos, visualización, infraestructura y datos.`,
+      significado: ` BI, combinación de estrategias y gestión de datos. Se integra análisis, analítica, minería de datos, visualización, infraestructura y datos.`,
     },
     {
       termino: `Librerías`,

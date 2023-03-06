@@ -217,7 +217,7 @@
         .row.justify-content-center.align-items-center
           .col-md-7.mb-4.mb-md-0
             h5.ms-5 Observación <em>in situ</em>
-            p.ms-5 Consiste en la percepción directa de las prácticas que se realizan habitualmente en el proceso de elaboración del software; esta técnica permite la obtención de datos, no desde el punto de vista de las personas, sino desde la evidencia directa; es decir, lo que ve y percibe el analista de requisitos. Antes de realizar la observación in situ, se debe seleccionar un conjunto de operaciones que sean importantes para el nuevo sistema, las cuales se deben aplicar de manera constante y que tengan cierta complejidad de comprensión.
+            p.ms-5 Consiste en la percepción directa de las prácticas que se realizan habitualmente en el proceso de elaboración del <em>software</em>; esta técnica permite la obtención de datos, no desde el punto de vista de las personas, sino desde la evidencia directa; es decir, lo que ve y percibe el analista de requisitos. Antes de realizar la observación <em>in situ</em>, se debe seleccionar un conjunto de operaciones que sean importantes para el nuevo sistema, las cuales se deben aplicar de manera constante y que tengan cierta complejidad de comprensión.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img-17.svg')
@@ -334,7 +334,7 @@
             //.titulo-sexto.color_tabla.pb-0
               p.mb-0.text-small <b>Figura 7.</b> El CPRE
             figure
-              img.mb-2(src='@/assets/curso/temas/tema1/img-24.png')
+              img.mb-2(src='@/assets/curso/temas/tema1/img-24.svg')
               figcaption Nota: adaptado de International Requeriments Engineering Board. 
       .py-3.py-md-4(titulo="CPRE")
         .row

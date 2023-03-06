@@ -15,7 +15,7 @@
       .col-lg-9
         p El prototipo es un producto en un modelo o versión temprana e incompleta del #[em software], que tiene la misma arquitectura y un mecanismo para identificar los requisitos del programa informático. Por lo general, es un boceto funcional del dispositivo y se utiliza para la demostración de características, interfaces de usuario o funcionalidades y para ahondar en la solución de un problema y las alternativas. Muestra cómo se ve el producto y cómo trabaja ante los #[em stakeholders] y esto aumenta o no, la confianza en la capacidad del equipo; incluso sirve como herramienta de venta, dado que se puede hacer un artículo diferente, durante el estudio de factibilidad y exponerlo a los interesados, de tal forma, que se realiza una impresión de lo que obtendrán, una vez que el producto esté finalizado. También se utiliza para mostrar una vista preliminar de una parte del software, para ponerlo a prueba y error, en espera de aprobación de los #[em stakeholders]; según la respuesta, se sabe si se entra a modificar y corregir el error hasta que sea satisfactorio. Una ventaja es que se construye en poco tiempo y a bajo costo, y es el paso inicial antes de empezar a fabricar el artilugio. Facilita que el equipo informático final, tenga mejor calidad y una interfaz de usuario agradable y útil. Un prototipo podrá ser construido, solo si es posible experimentar con el #[em software].
 
-    p.mb-5 El video que encuentra a continuación, es un tutorial que le va a enseñar sobre la creación de prototipos:
+    p.mb-5 El video que encuentra a continuación es un tutorial que le va a enseñar sobre la creación de prototipos:
 
     figure.mb-5
       .video
@@ -43,7 +43,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/tema4/img-5.png')
-            p.text-center.mb-5 Construcción y evaluación del prototipo; el uso por parte de los <em>stackholders,</em> ayuda a redefinir los requisitos previos.
+            p.text-center.mb-5 Construcción y evaluación del prototipo; el uso por parte de los <em>stakeholders</em> ayuda a redefinir los requisitos previos.
           .tarjeta.color-tarjeta-cuatro.p-4
             .row.justify-content-center.mb-3
               .col-8

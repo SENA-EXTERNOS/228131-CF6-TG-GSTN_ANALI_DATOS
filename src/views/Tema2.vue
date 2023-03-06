@@ -70,7 +70,7 @@
           .col-lg-3
             figure
               img(src="@/assets/curso/temas/tema2/img-5.png")
-          .col-lg-7
+          .col-lg-9
             .cajon-b.color-primario.mb-5.dos_uno
               p Según la metodología seleccionada, se emplean diversas técnicas de criterios y validación; durante toda la formación, se menciona en numerosos enfoques, las metodologías ágiles y es por esto que poco se profundizará en el tema. Existen unos parámetros establecidos que, independientemente del modelo de gestión seleccionado, deben estar inmersos en los documentos de los requisitos.
 
@@ -129,7 +129,7 @@
         ul.lista-ul.ms-0
           li 
             <i class="fas fa-angle-right" aria-hidden="true"></i>
-              h5 Acuerdos de nivel de servicio(SLAS)
+              h5 Acuerdos de nivel de servicio (SLAS)
           
         p El propósito del proceso de gestión de niveles de servicio, es el de asegurar que estos se encuentren actualizados y planificados y que sean entregados, de acuerdo con lo pactado y dentro de los objetivos establecidos.
 
