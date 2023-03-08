@@ -106,7 +106,7 @@
 
           figure
             img(src='@/assets/curso/temas/tema4/img-9.svg')
-            figcaption.mt-2 Nota. Adaptado de Ahmed & Prasad (2016).
+            figcaption.mt-2 Nota: adaptado de Ahmed & Prasad (2016).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
@@ -124,7 +124,7 @@
 
           figure
             img(src='@/assets/curso/temas/tema4/img-11.svg')
-            figcaption.mt-2 Nota. Adaptado de Ahmed & Prasad (2016).
+            figcaption.mt-2 Nota: adaptado de Ahmed & Prasad (2016).
 </template>
 
 <script>

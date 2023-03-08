@@ -34,12 +34,12 @@
             <i class="fas fa-angle-right" aria-hidden="true"></i>
               h5 Identificación de los riesgos en proyectos de <em>software</em>
           
-        p <em>El PMI (Project Management Institute)</em> es una organización que estandariza de facto buenas prácticas para el manejo de proyectos, define la identificación de contratiempos como un proceso para determinar qué pueden afectar un prototipo, identificar y documentar las características, con el fin de registrar y conocer los peligros existentes, lo que permite aumentar la capacidad del equipo y anticiparse. Para lograrlo se hace un tratamiento que identificar los riesgos es un procedimiento recurrente, dado que siempre aparecen nuevas contingencias, es por ello que se sugiere usar un formato para declaraciones y así garantizar que se comprendan de forma clara y sin ambigüedades. Este documento debe respaldar la habilidad de comparar el efecto relativo de diferentes riesgos, e involucra al equipo del proyecto para desarrollar y mantener un sentido de pertenencia y responsabilidad por los peligros y las acciones de respuesta asociadas. En conjunto con la <em>IEEE Computer Society</em> publicaron el <em>software Extension to the </em>PMBOK Guide el cual se usa como estándar.
+        p El PMI (Project Management Institute) es una organización que estandariza de-facto buenas prácticas para el manejo de proyectos, define la identificación de contratiempos como un proceso para determinar que pueden afectar un prototipo, identificar y documentar las características, con el fin de registrar y conocer los peligros existentes, lo que permite aumentar la capacidad del equipo y anticiparse. Para lograrlo, se hace un tratamiento que identifica si los riesgos son procedimientos recurrentes, dado que siempre aparecen nuevas contingencias; es por ello que se sugiere usar un formato para declaraciones y así garantizar que se comprendan de forma clara y sin ambigüedades. Este documento debe respaldar la habilidad de comparar el efecto relativo de diferentes riesgos, e involucra al equipo del proyecto para desarrollar y mantener un sentido de pertenencia y responsabilidad por los peligros y las acciones de respuesta asociadas. En conjunto con la IEEE #[em Computer Society], publicaron el #[em Software Extension to the PMBOK Guide], el cual se usa como estándar.
       .col-lg-3
         figure
           img(src="@/assets/curso/temas/tema3/img-3.png")
 
-    p.mb-5 Para identificar los riesgos, se usan diferentes técnicas y herramientas listadas a continuación:
+    p.mb-3 Para identificar los riesgos, se usan diferentes técnicas y herramientas listadas a continuación:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
@@ -47,9 +47,9 @@
           //.titulo-sexto.color_tabla.pb-0
             p.mb-0.text-small <b>Figura 11.</b> Empresario en el concepto de medición y gestión de riesgos
 
-          figure
+          //figure
             img(src='@/assets/curso/temas/tema3/img-4.png')
-            //figcaption.mt-2 Nota. Adaptado de Empresario en el concepto de medición y gestión de riesgos, Elnur, (2003) 
+            figcaption.mt-2 Nota. Adaptado de Empresario en el concepto de medición y gestión de riesgos, Elnur, (2003) 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.clase

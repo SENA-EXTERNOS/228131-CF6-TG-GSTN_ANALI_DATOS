@@ -170,7 +170,7 @@ export default {
     {
       tema: 'Gestión de cambio de requisitos y proyecto',
       referencia:
-        'IBM Maximo Service Providers. (2021). Acuerdos de nivel de servicio (SLA).IBM. ',
+        'IBM Maximo Service Providers. (2021). <em>Acuerdos de nivel de servicio (SLA).</em>IBM. ',
       tipo: 'Documento web',
       link:
         'https://www.ibm.com/docs/es/mfsp/7.6.1?topic=records-service-level-agreements-slas',
@@ -265,7 +265,7 @@ export default {
       referencia:
         'Wiegers, K. (2003). <em>Software requirements: practical techniques for gathering and managing requirements throughout the product development cycle.</em>',
       link:
-        'https://www.pdfdrive.com/software-requirements-practical-techniques-for-gathering-and-managing-requirements-throughout-the-product-development-cycle-2nd-edition-d193204082.html',
+        'https://www.researchgate.net/publication/31736441_Software_Requierements_Practical_Techniques_for_Gathering_and_Managing_Requirements_Throughout_the_Product_Development_Cycle_KE_Wiegers',
     },
   ],
   creditos: {

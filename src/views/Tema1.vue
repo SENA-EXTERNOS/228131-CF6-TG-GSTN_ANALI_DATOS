@@ -196,7 +196,7 @@
           .col-md-7.mb-4.mb-md-0.mt-3
             h5.ms-5 Entrevista 
             p.ms-5 Es una forma de recoger información de otra persona a través de una comunicación interpersonal que se lleva a cabo por medio de una conversación estructurada.
-            p.ms-5.text Se presentan en tres etapas, en la primera instancia se planifica y se estipula el tiempo de la misma, en la segunda los temas a tratar y en establecer el perfil de los entrevistados. Las primeras suelen dirigirse a los gerentes y líderes quienes tienen una visión global de negocio y en ellas se abordan aspectos generales y estratégicos sobre los objetivos corporativos. Luego, por lo general, se interrogan a los futuros usuarios del sistema para entender las tareas y flujos que llevan a cabo a diario y definir las necesidades.
+            p.ms-5.text Se presenta en tres etapas, en la primera instancia se planifica y se estipula el tiempo de la misma, en la segunda los temas a tratar y en establecer el perfil de los entrevistados. Las primeras suelen dirigirse a los gerentes y líderes quienes tienen una visión global de negocio y en ellas se abordan aspectos generales y estratégicos sobre los objetivos corporativos. Luego, por lo general, se interrogan a los futuros usuarios del sistema para entender las tareas y flujos que llevan a cabo a diario y definir las necesidades.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img-14.svg')
@@ -365,9 +365,9 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-27.png')
 
-    p.mb-4 La estandarización de los requisitos de <em>software</em> está basada en las normas IEEE 830. Antes de ahondar en los detalles del estatuto, se exponen algunos conceptos previos, importantes, para tener en cuenta:
+    p.mb-5 La estandarización de los requisitos de <em>software</em> está basada en las normas IEEE 830. Antes de ahondar en los detalles del estatuto, se exponen algunos conceptos previos, importantes, para tener en cuenta:
 
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.cuadro-derecha-7
+    //.bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.cuadro-derecha-7
       .row.m-0.align-items-center.justify-content-between.bloque-texto-a.texto-3
         .col-lg-4.mb-4.mb-lg-0
           figure.posicion_imagen
@@ -380,7 +380,7 @@
                 p.mb-0 <b>Especificación de Requisitos de <em>Software</em> (ERS):</b> se refiere a una descripción que indica algo, esta especificación debe ser entendida por el cliente. La ERS no puede llevar elementos de implementación o de desarrollo de soluciones técnicas; a partir de una determinación específica, surgen otras más detalladas producto de la descripción documentada.
               
 
-    p.mb-5 La metodología IEEE 830 presenta la siguiente estructura:
+    //p.mb-5 La metodología IEEE 830 presenta la siguiente estructura:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -466,7 +466,7 @@
       .col-lg-10
         .titulo-sexto.color_tabla.pb-0
           p.mb-0 <b>Figura 2</b> 
-          p.mb-0 <em>Paradigmas de metodologías para desarrollo y entrega de soluciones informáticas.</em>
+          p.mb-0 <em>Paradigmas de metodologías para desarrollo y entrega de soluciones informáticas</em>
         figure
           img(src='@/assets/curso/temas/tema1/img-29.svg')
           figcaption Nota: adaptado de Álvarez García & de las Herras del Dedo (2017).
@@ -503,7 +503,7 @@
         .row.justify-content-center.mb-3
           .col-7
             img.mb-3(src='@/assets/curso/temas/tema1/img-33.png')
-        p.text-center.text-small.mb-4 Se debe asegurar el entendimiento por parte de todo el equipo, para que exista unanimidad en la consideración de si es o no, aceptada y finalizada.
+        p.text-center.mb-1 Se debe asegurar el entendimiento por parte de todo el equipo, para que exista unanimidad en la consideración de si es o no, aceptada y finalizada.
 
     p.mb-4 Tipos de criterio de aceptación:
 

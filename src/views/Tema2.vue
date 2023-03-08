@@ -87,7 +87,7 @@
 
           figure
             img(src='@/assets/curso/temas/tema2/img-6.svg')
-            figcaption.mt-2 Nota. Adaptado de Presman y Maxim (2021).
+            figcaption.mt-2 Nota: adaptado de Presman y Maxim (2021).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
@@ -119,10 +119,10 @@
       .col-lg-8
         p Un #[b insight] aplica para el desarrollo de proyectos tecnológicos y podría ser: cuando se soluciona un problema, aparece otro; en otras palabras, se satisface una necesidad, surge otra y, al resolverla, se presenta una nueva y así sucesivamente; esto, traducido a soluciones tecnológicas y transformación digital, se refiere a que cuando se presentan resultados a los interrogantes del cliente y/o usuarios, lo que hace es que les surjan nuevas ideas, planteando más retos, basados en las respuestas de los técnicos y en la posibilidades que los programas informáticos presentan; lo anterior, es un asunto que perdura siempre en el tiempo de creación del sistema tecnológico. La gestión de cambios es un cúmulo de actividades, políticas o protocolos establecidos, que facilitan al equipo de trabajo cómo identificar, controlar, registrar y rastrear, los requerimientos y las variaciones a los mismos, en cualquier momento, incluso, en fases avanzadas.
 
-        p Parte de la característica de las metodologías ágiles se fundamenta en que los requisitos no deben ser una camisa de fuerza, inflexibles e inmutables; pero sí se hace necesario tener claridad entre mejorar una solicitud (optimizar el formato de presentación de un campo), y ajustar el requisito, según los acuerdos ya pactados. Una cosa es que el cliente sugiera mejorar un aspecto de navegabilidad en una aplicación, dado que en la práctica la programación inicial sea confusa, pero otra es que solicite agregar funcionalidades al requisito, como nuevos cálculos o sumar elementos que impliquen cambios estructurales en el #[wm software].
+        p Parte de la característica de las metodologías ágiles se fundamenta en que los requisitos no deben ser una camisa de fuerza, inflexibles e inmutables; pero sí se hace necesario tener claridad entre mejorar una solicitud (optimizar el formato de presentación de un campo), y ajustar el requisito, según los acuerdos ya pactados. Una cosa es que el cliente sugiera mejorar un aspecto de navegabilidad en una aplicación, dado que en la práctica la programación inicial sea confusa, pero otra es que solicite agregar funcionalidades al requisito, como nuevos cálculos o sumar elementos que impliquen cambios estructurales en el #[em software].
 
     .cajon.p-4.mb-4.color-cajon.mb-5
-      p.mb-0 En términos generales, las herramientas de gestión del cambio ya están dadas, tales como la validación, aceptación y protocolos de desarrollo para llevar el control de cambios; sin embargo, para la gestión de proyectos de software o inteligencia de negocio, es importante tener conceptos sobre SLA que ayuden a diligenciar ajustes en los niveles de servicio.
+      p.mb-0 En términos generales, las herramientas de gestión del cambio ya están dadas, tales como la validación, aceptación y protocolos de desarrollo para llevar el control de cambios; sin embargo, para la gestión de proyectos de #[em software] o inteligencia de negocio, es importante tener conceptos sobre SLA que ayuden a diligenciar ajustes en los niveles de servicio.
 
     .row.mb-5  
       .col-lg-8   
