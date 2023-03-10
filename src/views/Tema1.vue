@@ -452,12 +452,12 @@
                   ul.lista-ul--color.mb-4
                     li 
                       i.fas.fa-chevron-right
-                      p.mb-0 Expresa el funcionamiento del sistema y sus interacciones; se definen qué debe hacer el sistema. Deben ser comprensibles y en lenguaje natural. Definir adicional, requisitos obligatorios y requisitos deseables. Por lo general se identifica con RF01, y así secuencialmente.
+                      p.mb-0 Expresa el funcionamiento del sistema y sus interacciones, se define qué debe hacer el sistema. Deben ser comprensibles, definir, adicionalmente, requisitos obligatorios y requisitos deseables. Por lo general, se identifica con RF01 y así secuencialmente.
                   h5 Requerimientos no funcionales
                   ul.lista-ul--color
                     li 
                       i.fas.fa-chevron-right
-                      p.mb-0 Describe características generales y restricciones al sistema como entornos gráficos, velocidad de procesamiento. Estos también deben listarse e identificarse (RNF01, y así). Por lo general, los RF están asociados a uno o varios RNF.    
+                      p.mb-0 Describe las características generales y las restricciones del sistema como entornos gráficos y la velocidad de procesamiento. Estos también deben listarse e identificarse, por ejemplo RNF01, y por lo general, los RF están asociados a uno o varios RNF.
 
 
     p.mb-5 A continuación, encuentra la diferencia de los enfoques entre las metodologías tradicionales y las ágiles:
