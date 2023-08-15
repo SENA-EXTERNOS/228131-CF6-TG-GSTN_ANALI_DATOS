@@ -179,7 +179,7 @@
 
 
     #t_1_2.titulo-segundo.color-acento-botones.color_subtemas.pb-2
-      h2 1.2 Técnicas e Instrumentos para elicitar requisitos
+      h2 1.2 Técnicas e instrumentos para elicitar requisitos
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
@@ -196,7 +196,7 @@
           .col-md-7.mb-4.mb-md-0.mt-3
             h5.ms-5 Entrevista 
             p.ms-5 Es una forma de recoger información de otra persona a través de una comunicación interpersonal que se lleva a cabo por medio de una conversación estructurada.
-            p.ms-5.text Se presenta en tres etapas, en la primera instancia se planifica y se estipula el tiempo de la misma, en la segunda los temas a tratar y en establecer el perfil de los entrevistados. Las primeras suelen dirigirse a los gerentes y líderes quienes tienen una visión global de negocio y en ellas se abordan aspectos generales y estratégicos sobre los objetivos corporativos. Luego, por lo general, se interrogan a los futuros usuarios del sistema para entender las tareas y flujos que llevan a cabo a diario y definir las necesidades.
+            p.ms-5.text Se presenta en tres etapas, en la primera instancia se planifica y se estipula el tiempo de la misma, en la segunda los temas a tratar y en establecer el perfil de los entrevistados. Las primeras suelen dirigirse a los gerentes y líderes, quienes tienen una visión global de negocio y en ellas se abordan aspectos generales y estratégicos sobre los objetivos corporativos. Luego, por lo general, se interrogan a los futuros usuarios del sistema para entender las tareas y flujos que llevan a cabo a diario y definir las necesidades.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img-14.svg')
@@ -210,7 +210,7 @@
         .row.justify-content-center.align-items-center
           .col-md-7.mb-4.mb-md-0
             h5.ms-5 Preguntas abiertas y cerradas
-            p.ms-5 Las abiertas, son aquellas que no tienen limitación de respuestas, le dan más libertad a los funcionarios para escribir y exponer su punto de vista, mientras que las cerradas se condicionan y es necesario elegir una de las opciones disponibles.
+            p.ms-5 Las abiertas son aquellas que no tienen limitación de respuestas, le dan más libertad a los funcionarios para escribir y exponer su punto de vista, mientras que las cerradas se condicionan y es necesario elegir una de las opciones disponibles.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img-16.svg')
@@ -286,7 +286,7 @@
         .row.justify-content-center.align-items-center
           .col-md-7.mb-4.mb-md-0
             h5.ms-5 Estudio de documentación
-            p.ms-5 Consiste en realizar una lectura a profundidad basada en documentos del problema del nuevo sistema, esto dará un contexto general y a profundidad sobre el negocio y sus procedimientos. Los archivos darán cuenta de los objetivos de la organización, los enfoques profesionales y comerciales. Algunos de los principales registros que se pueden consultar y analizar son: los manuales de procedimientos y de funciones, informes generados por el sistema actual, legislaciones, manuales de usuario del sistema actual, e información general que podría estar incluso en la web de la empresa.
+            p.ms-5 Consiste en realizar una lectura a profundidad basada en documentos del problema del nuevo sistema, esto dará un contexto general y a fondo sobre el negocio y sus procedimientos. Los archivos darán cuenta de los objetivos de la organización, los enfoques profesionales y comerciales. Algunos de los principales registros que se pueden consultar y analizar son: los manuales de procedimientos y de funciones, informes generados por el sistema actual, legislaciones, manuales de usuario del sistema actual, e información general que podría estar incluso en la web de la empresa.
             p.ms-5 Existen otros recursos, de los cuales se pueden sacar los requisitos y problemas; elegir el más adecuado depende de la naturaleza del negocio, la experiencia y conocimiento de la técnica y de otros factores específicos del proyecto a desarrollar. Entre otras tácticas se podría mencionar: lluvia de ideas, talleres de requisitos, prototipos, ingeniería inversa, etc.
           .col-md-5
             figure
@@ -298,7 +298,7 @@
           img(src='@/assets/curso/temas/tema1/img-22.png') 
       .col-lg-6
         #t_1_3.titulo-segundo.color-acento-botones.color_subtemas.pb-2
-          h3 Infografía Elicitación de requisitos
+          h3 Infografía elicitación de requisitos
         p.mb-5 Aspectos principales de la elicitación de requisitos:
         a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO_Elicitacion_de_requisitos.pdf')" target="_blank")
           span Descargar
